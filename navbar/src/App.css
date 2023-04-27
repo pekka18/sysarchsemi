@@ -1,0 +1,22 @@
+App.css
+*{
+  margin: 0;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  max-width: 100%;
+}
+.navlink{
+  display: flex;
+  justify-content: space-evenly;
+}
+.link{
+  text-decoration: none;
+  font-size: large;
+  margin-left: 30px;
+  padding: 10px;
+  color: aqua;
+}
